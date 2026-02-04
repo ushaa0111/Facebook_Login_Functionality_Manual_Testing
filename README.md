@@ -1,12 +1,12 @@
 🧪 Facebook Login – Manual Testing Project
 
-📘 Project Overview-
+📘 Project Overview
 
 This project focuses on manual testing of the Facebook Login functionality to ensure that all critical features like login validation, password masking, remember-me, and forgot-password work correctly across browsers and devices. Testing includes positive, negative, and security scenarios based on real-world use cases.
 
-🌐 Application Under Test (AUT) 
+🌐 Application Under Test (AUT)  
 
-https://www.facebook.com/login.php/
+🔗 https://www.facebook.com/login.php/
 
 🧾 Objectives
 
@@ -20,53 +20,35 @@ Demonstrate a full STLC (Software Testing Life Cycle) implementation manually.
 
 🗂️ Project Deliverables
 
-The following documents are included in this project:
+All documents are uploaded in both Excel formats inside this repository.
 
-| File Name | Description |
+1. 📝 Test Plan
+2. 📊 Test Scenarios
+3. ✅ Test Cases
+4. 🔄 Test Execution Report
+5. 🐞 Defect Report
+6. ✅ RTM
+7. 📑 Test Summary Report (TSR)
 
-| Facebook_Login_Test_Plan.txt | Outlines test objectives, scope, approach, and environment details. |
+🛠️ Tools & Environment
 
-| Facebook_Login_Test_Scenarios.xlsx | Lists 30 functional test scenarios (12 positive + 18 negative). |
+•	Testing Type → Manual Functional Testing 
 
-| Facebook_Login_Test_Cases.xlsx | Contains detailed test cases with steps, expected/actual results, and status. |
+•	 Browse→ Chrome, Edge 
 
-| Facebook_Login_Bug_Report.xlsx | Logs all identified defects with severity, steps to reproduce, and linked test cases. |
-
-| Facebook_Login_Test_Execution_Report.xlsx | Summarizes test execution results. |
-
-| Facebook_Login_Traceability_Matrix.xlsx | Maps requirements to test scenarios and test cases. |
-
-| Facebook_Login_Test_Summary_Report.xlsx | Provides final test summary and project conclusion. |
-
-🧩 Tools & Environment
-
-| Tool / Environment | Details |
-
-| Testing Type | Manual Functional Testing |
-
-| OS | Windows 11 |
-
-| Browser | Chrome, Edge |
-
-| Documentation Tools | MS Excel, MS Word |
-
-| Prepared By | Usha Nazare |
-
-| Date | 11 November 2025 |
+•	Documentation Tools → MS Excel, MS Word 
 
 🐞 Key Defects Identified
 
-| Bug ID | Description | Severity |
+•	FB_001→ Show Password not working (High)
 
-| FB_001 | Show Password not working | High |
+•	FB_002 → Forgot Password redirection incorrect (High)
 
-| FB_002 | Forgot Password redirection incorrect | High |
+•	 FB_003 → SQL Injection vulnerability (Critical)
 
-| FB_003 | SQL Injection vulnerability | Critical |
+•	FB_004 → Invalid email not validated properly (Medium)
 
-| FB_004 | Invalid email not validated properly | Medium |
-
-| FB_005 | Remember Me not retaining data | Medium |
+•	FB_005 → Remember Me not retaining data (Medium)
 
 📊 Summary
 
@@ -84,14 +66,13 @@ Key issues identified include “Show Password” not working, “Remember Me”
 
 👩‍💻 Tester Details
 
-| Field | Information |
+Tester Name -Usha Nazare 
 
-| Tester Name | Usha Nazare |
+ Role - Manual QA Tester 
 
-| Role | Manual QA Tester |
+ Experience Level - Fresher 
 
-| Experience Level | Fresher |
+Project Type - Practice Project 
 
-| Project Type | Practice Project |
+Date Prepared – 24 January 2026
 
-| Date Prepared | 11 November 2025 |
