@@ -4,6 +4,10 @@
 
 This project focuses on manual testing of the Facebook Login functionality to ensure that all critical features like login validation, password masking, remember-me, and forgot-password work correctly across browsers and devices. Testing includes positive, negative, and security scenarios based on real-world use cases.
 
+🌐 Application Under Test (AUT) 
+
+https://www.facebook.com/login.php/
+
 🧾 Objectives
 
 Validate all login functionalities under various valid and invalid input conditions.
