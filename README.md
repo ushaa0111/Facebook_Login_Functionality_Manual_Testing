@@ -42,23 +42,21 @@ All documents are uploaded in both Excel formats inside this repository.
 
 •	FB_002 → Forgot Password redirection incorrect (High)
 
-•	 FB_003 → SQL Injection vulnerability (Critical)
+•	FB_003 → Invalid email not validated properly (Medium)
 
-•	FB_004 → Invalid email not validated properly (Medium)
-
-•	FB_005 → Remember Me not retaining data (Medium)
+•	FB_004 → Remember Me not retaining data (Medium)
 
 📊 Summary
 
-Total Test Cases: 30
+Total Test Cases: 29
 
 Passed: 25
 
-Failed: 5
+Failed: 4
 
-Pass Rate: 83.3%
+Pass Rate: 86.20%
 
-Fail Rate: 16.7%
+Fail Rate: 13.79%
 
 Key issues identified include “Show Password” not working, “Remember Me” not retaining data, and minor input validation defects.
 
