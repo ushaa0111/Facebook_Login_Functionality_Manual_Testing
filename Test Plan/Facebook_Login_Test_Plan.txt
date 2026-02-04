@@ -48,7 +48,6 @@ Testing includes:
 - Positive testing for valid credentials
 - Negative testing for invalid inputs
 - Boundary testing for input limits
-- Security validation for SQL and XSS
 Execution done using browser tools and manual observation.
 
 6. Entry & Exit Criteria
