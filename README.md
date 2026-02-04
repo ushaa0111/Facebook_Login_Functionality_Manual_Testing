@@ -14,8 +14,6 @@ Validate all login functionalities under various valid and invalid input conditi
 
 Identify and report any defects related to UI, usability, functionality, and security.
 
-Ensure compliance with standard QA practices and documentation formats.
-
 Demonstrate a full STLC (Software Testing Life Cycle) implementation manually.
 
 🗂️ Project Deliverables
